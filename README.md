@@ -1,3 +1,4 @@
-# setting_memo
+# dotfiles
 
-vimrcとかの設定をまとめる
+
+各種設定をまとめる
